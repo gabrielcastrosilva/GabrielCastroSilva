@@ -1,19 +1,21 @@
-<h2> Hey there! I'm Gabriel Castro. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> Hey there! I'm Gabriel Castro. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px"></h2>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-castro-silva-a6b76a208/)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=GabrielCastroSilva)
+<img src="https://profile-counter.glitch.me/GabrielCastroSilva/count.svg" alt="hit counter" align="center">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; Currently working on Elos at Mconf, also on a few personal projects! 🕵️
-- 🤔 &nbsp; Having fun and tribulations working with [Cadu](https://github.com/cadufeitosa).
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; Having fun and tribulations working with [Cadu](https://github.com/cadufeitosa).
 - 🌱 &nbsp; Learning as much as I can in Full Stack devlopment.
 - 😄 &nbsp; Jack of all trades, master of none!
 - ⚡ &nbsp; I love learning tons of stuff because I learn fast! 👨‍🎓
 
 ___
 <h3> 🛠 &nbsp;I dabble in</h3>
-<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 
 - 🥇 &nbsp;
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -33,12 +35,14 @@ ___
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   
+<img align='right' src="https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2019/09/18085910/Monkey_Kid_Coding.gif" width="200">
+
 - 🔧 &nbsp;
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  
+
 - 🎨 &nbsp;
   <img alt="Adobe" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
@@ -48,7 +52,6 @@ ___
   <img alt="Postgres" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 - 📫 &nbsp; 
   <img alt="Gmail" src="https://img.shields.io/badge/gabriel.silva.010@acad.pucrs.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  
 
 ___
 <br/>
@@ -58,7 +61,16 @@ ___
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielcastrosilva&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcastrosilva&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
+<details>
+<summary>❓</summary>
+<div>
+  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+</div>
+</details>
 <!--
 **GabrielCastroSilva/GabrielCastroSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
