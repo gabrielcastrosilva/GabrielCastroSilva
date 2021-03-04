@@ -7,7 +7,7 @@
 
 - 💼 &nbsp; Currently working on Elos at Mconf, also on a few personal projects! 🕵️
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; Having fun and tribulations working with [Cadu](https://github.com/cadufeitosa).
-- 🌱 &nbsp; Learning as much as I can in Full Stack devlopment.
+- 🌱 &nbsp; Learning as much as I can in Full Stack development.
 - 😄 &nbsp; Jack of all trades, master of none!
 - ⚡ &nbsp; I love learning tons of stuff because I learn fast! 👨‍🎓
 
