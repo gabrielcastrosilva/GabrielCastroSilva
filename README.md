@@ -1,19 +1,19 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> Hey there! I'm Gabriel Castro. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px"></h2>
+<h2><img src="https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/cool.gif?raw=true" width="30px"> Hey there! I'm Gabriel Castro. <img src="https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/wave.gif?raw=true" width="40px"></h2>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-castro-silva-a6b76a208/)
 <img src="https://profile-counter.glitch.me/GabrielCastroSilva/count.svg" alt="hit counter" align="center">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Currently working on Elos at Mconf, also on a few personal projects! 🕵️
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; Having fun and tribulations working with [Cadu](https://github.com/cadufeitosa).
+- 💼 &nbsp; Currently working on Elos at Mconf, also on a few personal projects!<img src="https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/programmer.gif?raw=true" width="30px">
+- <img src="https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/keyboardcat.gif?raw=true" width="30"> &nbsp; Having fun and tribulations working with [Cadu](https://github.com/cadufeitosa).
 - 🌱 &nbsp; Learning as much as I can in Full Stack development.
 - 😄 &nbsp; Jack of all trades, master of none!
 - ⚡ &nbsp; I love learning tons of stuff because I learn fast! 👨‍🎓
 
 ___
 <h3> 🛠 &nbsp;I dabble in</h3>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='170'>
+<img align='right' src='https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/octocat.gif?raw=true' width='170'>
 
 - 🥇 &nbsp;
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -32,7 +32,7 @@ ___
 - 🛢  &nbsp;
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img align='right' src="https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2019/09/18085910/Monkey_Kid_Coding.gif" width="170">
+<img align='right' src="https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/monkey.gif?raw=true" width="170">
   
 - 🔧 &nbsp;
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -63,9 +63,9 @@ ___
 <details>
 <summary>❓</summary>
 <div>
-  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
-  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
-  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+  <img src="https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/nevergonna.gif?raw=true" width="280" height="auto" /></a>
+  <img src="https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/nevergonna.gif?raw=true" width="280" height="auto" /></a>
+  <img src="https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/nevergonna.gif?raw=true" width="280" height="auto" /></a>
 </div>
 </details>
 <!--
