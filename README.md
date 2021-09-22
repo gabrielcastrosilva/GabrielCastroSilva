@@ -14,6 +14,7 @@
 ___
 <h3> 🛠 &nbsp;I dabble in</h3>
 <img align='right' src='https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/octocat.gif?raw=true' width='170'>
+  
 
 - 🥇 &nbsp;
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -31,11 +32,12 @@ ___
   <img alt="C" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
   <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   
-- 🛢  &nbsp;
+- 🛢 &nbsp;
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img align='right' src="https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/monkey.gif?raw=true" width="170">
   <img alt="Postgres" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  
+  <img align='right' src="https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/monkey.gif?raw=true" width="170">
   
 - 🔧 &nbsp;
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
