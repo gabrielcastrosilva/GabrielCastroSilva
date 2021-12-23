@@ -66,7 +66,7 @@ ___
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielcastrosilva&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcastrosilva&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/welcome.svg" />
 
 <details>
 <summary>❓</summary>
