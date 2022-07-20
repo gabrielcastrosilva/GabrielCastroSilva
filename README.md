@@ -1,12 +1,14 @@
 <h2><img src="https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/cool.gif?raw=true" width="30px"> Hey there! I'm Gabriel Castro. <img src="https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/wave.gif?raw=true" width="40px"></h2>
 
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-castro-silva-a6b76a208/)
 <img src="https://profile-counter.glitch.me/GabrielCastroSilva/count.svg" alt="hit counter" align="center">
 
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Currently working on Elos at Mconf, also on a few personal projects!<img src="https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/programmer.gif?raw=true" width="30px">
-- <img src="https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/keyboardcat.gif?raw=true" width="30"> &nbsp; Having fun and tribulations working with [Cadu](https://github.com/cadufeitosa).
+- 💼 &nbsp; Currently working on Concur Travel at SAP, also on a few personal projects!<img src="https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/programmer.gif?raw=true" width="30px">
+- <img src="https://raw.githubusercontent.com/GabrielCastroSilva/GabrielCastroSilva/main/images/keyboardcat.gif?raw=true" width="30"> &nbsp; Having fun and tribulations as a recent graduate.
 - 🌱 &nbsp; Learning as much as I can in Full Stack development.
 - 😄 &nbsp; Jack of all trades, master of none!
 - ⚡ &nbsp; I love learning tons of stuff because I learn fast! 👨‍🎓
@@ -24,14 +26,14 @@ ___
 - 🥈 &nbsp;
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-   <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 
 
   
 - 🥉 &nbsp; 
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
   
 - 🛢 &nbsp;
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -50,8 +52,9 @@ ___
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   
 - 🎓 &nbsp;
-  <img alt="Go" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img alt="Go" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 - 📫 &nbsp; 
   <img alt="Gmail" src="https://img.shields.io/badge/gabriel.silva.010@acad.pucrs.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
